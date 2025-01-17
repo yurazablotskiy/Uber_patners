@@ -1,3 +1,5 @@
+![Image Description](img/Wordpress_intensive.png)
+
 # Responsive Website with Flexbox and SCSS
 
 This project is a fully responsive website designed to adapt to various screen sizes. It uses Flexbox for the layout, SCSS for styling, and includes a JavaScript script to manage the menu. The website is built with a mobile-first approach, ensuring an optimal user experience across all devices.
