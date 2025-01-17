@@ -1,4 +1,4 @@
-![Image Description](img/Wordpress_intensive.png)
+![Image Description](img/uber_partners.png)
 
 # Responsive Website with Flexbox and SCSS
 
