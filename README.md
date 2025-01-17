@@ -20,7 +20,7 @@ https://wonderful-mochi-d32a5e.netlify.app/
 - HTML5
 - CSS3 (Flexbox)
 - SASS (Sass)
--JavaScript (for mobile menu functionality)
+- JavaScript (for mobile menu functionality)
 
 ## Installation
 
