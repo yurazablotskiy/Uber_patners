@@ -1,4 +1,4 @@
-![Image Description](img/Uber_partners.png)
+![Image Description](img/uber_partners.png)
 
 # Responsive Website with Bootstrap Grid, Flexbox, and SASS
 
