@@ -1,4 +1,4 @@
-![Image Description](img/Vavada_casino.png)
+![Image Description](img/Uber_partners.png)
 
 # Responsive Website with Bootstrap Grid, Flexbox, and SASS
 
@@ -6,7 +6,7 @@ This project is a fully responsive website built with HTML, CSS (SASS), and Java
 
 ## Live Demo
 You can view the live version of this website at:
-[Live Demo](https://sweet-mooncake-27f80a.netlify.app/)
+[Live Demo](https://wonderful-mochi-d32a5e.netlify.app/)
 
 ## Features
 
